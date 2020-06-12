@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thumbnail_image_width">96dp</dimen>
+    <dimen name="thumbnail_image_height">80dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="subtitle_text_size">12sp</dimen>
+    <dimen name="description_max_width">160dp</dimen>
+    <dimen name="status_max_width">80dp</dimen>
+</resources>

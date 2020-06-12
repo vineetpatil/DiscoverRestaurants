@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TitleTextAppearance">
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/colorDarkGrey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SubTitleTextAppearance">
+        <item name="android:textSize">@dimen/subtitle_text_size</item>
+        <item name="android:textColor">@color/colorLightGrey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="StatusTextAppearance">
+        <item name="android:textSize">@dimen/subtitle_text_size</item>
+        <item name="android:textColor">@color/colorLighterGrey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
